@@ -5,3 +5,5 @@ scikit-learn
 statsmodels
 streamlit
 jupyter
+plotly
+joblib
