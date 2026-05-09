@@ -221,9 +221,9 @@ Future production enhancements may include:
 
 # 👨‍💻 Author
 
-## Busayosage Seun Oseola
+## Oluwabusayomi Seun Oseola
 
-Aspiring Data Analyst and Machine Learning enthusiast focused on building practical business intelligence and forecasting systems using Python, analytics, and cloud technologies.
+Data Analyst focused on building practical business intelligence, forecasting, and machine learning solutions using Python, analytics, and cloud technologies.
 
 ---
 
