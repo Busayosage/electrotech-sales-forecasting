@@ -93,27 +93,29 @@ Users can dynamically simulate forecasting scenarios using:
 The dashboard automatically generates forecasting insights based on selected business conditions.
 
 ---
-
- 
 # 📸 Dashboard Preview
 
-## Dashboard Overview
+---
+
+## 🖥️ Dashboard Overview
 ![Dashboard Overview](assets/screenshots/dashboard-overview.png)
 
 ---
 
-## Forecast Prediction
-![Forecast Prediction](assets/screenshots/forecast-result.png)
+## 📊 Forecast Prediction
+![Forecast Result](assets/screenshots/forecast-result.png)
 
 ---
 
-## Interactive Forecast Inputs
+## 🎯 Interactive Forecast Inputs
 ![Forecast Inputs](assets/screenshots/forecast-inputs.png)
 
 ---
 
-## Sales Analytics Visualizations
+## 📈 Sales Analytics Visualizations
 ![Sales Analytics](assets/screenshots/sales-analytics.png)
+
+---
 
 🏗️ Project Architecture
 
