@@ -94,7 +94,28 @@ The dashboard automatically generates forecasting insights based on selected bus
 
 ---
 
-# 🏗️ Project Architecture
+ 
+# 📸 Dashboard Preview
+
+## Dashboard Overview
+![Dashboard Overview](assets/screenshots/dashboard-overview.png)
+
+---
+
+## Forecast Prediction
+![Forecast Result](assets/screenshots/forecast-result.png)
+
+---
+
+## Interactive Forecast Inputs
+![Forecast Inputs](assets/screenshots/forecast-inputs.png)
+
+---
+
+## Sales Analytics Visualizations
+![Sales Analytics](assets/screenshots/sales-analytics.png)
+
+🏗️ Project Architecture
 
 ```text
 Raw CSV Dataset
