@@ -246,7 +246,7 @@ Future production enhancements may include:
 
 ## Oluwabusayomi Seun Oseola
 
-Data Analyst focused on building practical business intelligence, forecasting, and machine learning solutions using Python, analytics, and cloud technologies.
+Operations and Performance Data Analyst focused on building practical business intelligence, forecasting, and machine learning solutions using Python, analytics, and cloud technologies.
 
 ---
 
