@@ -113,7 +113,7 @@ The dashboard automatically generates forecasting insights based on selected bus
 ---
 
 ## Sales Analytics Visualizations
-![Sales Analytics](assets/screenshots/sales-analytics.png)
+![Sales Analytics](assets/screenshots/sales-analytics.png))
 
 🏗️ Project Architecture
 
